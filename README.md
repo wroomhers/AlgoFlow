@@ -2,7 +2,7 @@
 
 Web tabanlı, görsel programlama mantığını öğretmek ve test etmek amacıyla geliştirilmiş, interaktif bir akış diyagramı editörü ve simülatörü.
 
-![Screenshot](https://via.placeholder.com/800x400?text=Algoritma+Simulasyonu)
+![Screenshot](example_screenshot.png)
 
 ## 🌟 Özellikler
 
