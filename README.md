@@ -1,4 +1,4 @@
-**Programın orijinali LYEC'e aittir. Bu Fork'ta son versiyonu tarafımca düzenlenip paylaşılmıştır. Sistemi online kullanmak için [buraya](lutfuscloud.xyz/AlgoFlow) tıklayınız**
+**Programın orijinali LYEC'e aittir. Bu Fork'ta son versiyonu tarafımca düzenlenip paylaşılmıştır. Sistemi online kullanmak için [buraya](https://www.lutfuscloud.xyz/AlgoFlow) tıklayınız**
 
 # Algoritma Akış Diyagramı Simülatörü 🚀
 
