@@ -1,3 +1,5 @@
+**Programın orijinali LYEC'e aittir. Bu Fork'ta son versiyonu tarafımca düzenlenip paylaşılmıştır. Sistemi online kullanmak için [buraya](lutfuscloud.xyz/AlgoFlow) tıklayınız**
+
 # Algoritma Akış Diyagramı Simülatörü 🚀
 
 Web tabanlı, görsel programlama mantığını öğretmek ve test etmek amacıyla geliştirilmiş, interaktif bir akış diyagramı editörü ve simülatörü.
